@@ -1,0 +1,33 @@
+* {
+  padding: 0; 
+  margin: 0;
+  border: 1px solid red;
+}
+
+
+
+/* Main info block */
+.main-info {
+  display: flex;
+}
+.main-info p {
+  background-color: #E5E5E5;
+}
+
+.main-info img {
+  width: 50%;
+}
+
+/* 3 Column block */
+.cols-3 {
+  display: flex;
+}
+
+.cols-3 .card {
+
+}
+
+.cols-3 .card img {
+  max-width: 33%;
+}
+
