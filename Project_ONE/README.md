@@ -6,6 +6,8 @@ Welcome to the first internship project! In this project, you will be creating a
 
 The goal of this project is to take the provided wireframe / design mockup and use them as a reference to create a fully functional and responsive HTML webpage. Additionally, you will need to apply the necessary CSS styling to ensure that the final output matches the given design.
 
+Wireframe link: https://www.figma.com/file/GChXJeOZd9f1YnVMJCJzVQ/Project-%231-HTML-Break-Up?type=design&node-id=0%3A1&mode=design&t=8POqfs5kd4Ikq4rs-1
+
 ## Project Setup
 
 1. **Initial Setup:** Reference the Git README for further information on how to fork this repository and properly add changes. Everything you will need is within this project folder. 
