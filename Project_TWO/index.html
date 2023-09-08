@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Villager Database</h1>
+    <div id="grid" >
+
+    </div>
+
+    <form onSubmit="return createVillagerObject()">
+        <label for="name">Name:</label>
+        <input id="name" name="name" type="text"/><br>
+
+        <label for="type">Type:</label>
+        <input id="type" name="type" type="text"/><br>
+
+        <label for="personality">Personality:</label>
+        <input id="personality" name="personality" type="text"/><br>
+
+        <label for="gifted">Gifted?:</label>
+        <input id="gifted" name="gifted" type="checkbox"/><br>
+
+        <input name="Submit"  type="submit" value="Create"/>
+    </form>
+    <script src="myscripts.js"></script>
+</body>
+</html>
