@@ -20,12 +20,14 @@ PHP & MySQL by Jon Duckett<br />
 Project #3 - Converting Project #2 by incorporating a database<br />
 
 <br />
+
 ### Drupal 7 
 <br />
 Resource - Beginning Drupal 7 by Todd Tomlinson<br />
 Project - Getting familiar with Drupal 7<br />
 
 <br />
+
 ### Drupal 10
 <br />
 Resource - Drupal 10 Development Cookbook by Matt Glaman & Kevin Quillen<br />
@@ -40,5 +42,5 @@ Part C - Modules - Installing contributed modules and creating a custom module<b
 
 If time allows then we can dive into wordpress
 
-Resource - TBD
+Resource - TBD<br />
 Project - TBD
