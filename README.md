@@ -46,5 +46,7 @@ Remember, this is just the beginning of your web development journey, and we are
 
 Happy Coding! 🚀
 
+ATTENTION: Go ahead and make your way to the Guideline readme file : https://github.com/alberto-trinet/trinet-internship/blob/main/GUIDELINES.md
+
 Sincerely,
 The TriNet Development Team
