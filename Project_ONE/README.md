@@ -8,13 +8,10 @@ The goal of this project is to take the provided wireframe / design mockup and u
 
 Wireframe link: https://www.figma.com/file/GChXJeOZd9f1YnVMJCJzVQ/Project-%231-HTML-Break-Up?type=design&node-id=0%3A1&mode=design&t=8POqfs5kd4Ikq4rs-1
 
-## Project Setup
+If the wireframe is not working for you , there is a version of the mockup as a pdf within this folder, here is the url to the file on github:
+https://github.com/alberto-trinet/trinet-internship/blob/main/Project_ONE/Project%20%231%20HTML%20Break%20Up.pdf
 
-1. **Initial Setup:** Reference the Git README for further information on how to fork this repository and properly add changes. Everything you will need is within this project folder. 
-
-2. **Text Editor:** Choose a suitable text editor or integrated development environment (IDE) to work on the project. Popular choices include Visual Studio Code, Sublime Text, or Atom.
-
-3. **Browser:** You will need a modern web browser to preview your HTML page and ensure it looks and functions as intended. Commonly used browsers include Google Chrome, Mozilla Firefox, and Microsoft Edge.
+The developer overlooking your internship should confirm what is the appropriate mockup to follow. 
 
 ## Project Tasks
 
