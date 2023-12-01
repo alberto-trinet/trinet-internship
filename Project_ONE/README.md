@@ -44,3 +44,7 @@ If any issues come about , be prepared a zip of your project to send out for ass
 This internship project will give you hands-on experience in building a web page from scratch based on a wireframe / design mockup. It will test your HTML and CSS skills and help you become more proficient in front-end development.
 
 If you have any questions or run into any difficulties during the project, don't hesitate to reach out to the team for assistance. Good luck, and have fun building your custom HTML and CSS web page!
+
+## Final Important Notes:
+
+For the supervising developer, note that the "Solution" folder in this project is not completed. It is also just one way for this project to be completed. When it comes to html structure and css styling, there are many different ways to achieve a look. So please express to the intern to refrain from looking into this folder as to not skew there project and for them to truly attempt to make a solution of their own. At the time of writing this the "Solution" folder was meant more for the supervising developer but if it helps please remove the folder for future use. It may be beneficial to make another repository for supervising devs which contains potential solutions to all projects. 
